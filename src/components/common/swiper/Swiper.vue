@@ -216,6 +216,7 @@
   }
 
   .swiper {
+    margin-top: 44px;
     display: flex;
   }
 
